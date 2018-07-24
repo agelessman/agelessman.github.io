@@ -309,7 +309,7 @@ pre code {
   width: 100%;
 }
 .post-container .pager li > a > span {
-  color: #808080;
+  color: #000000;
   font-weight: normal;
   letter-spacing: 0.5px;
 }
@@ -497,7 +497,7 @@ pre code {
 }
 .intro-header {
   background: no-repeat center center;
-  background-color: #808080;
+  background-color: #000000;
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -627,7 +627,7 @@ pre code {
 }
 .post-preview > .post-meta {
   font-family: 'Lora', 'Times New Roman', serif;
-  color: #808080;
+  color: #000000;
   font-size: 16px;
   font-style: italic;
   margin-top: 0;
