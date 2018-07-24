@@ -14,11 +14,11 @@
   font-size: 14px;
 }
 .sidebar-container h5 {
-  color: #808080;
+  color: #000000;
   padding-bottom: 1em;
 }
 .sidebar-container h5 a {
-  color: #808080 !important;
+  color: #000000 !important;
   text-decoration: none;
 }
 .sidebar-container a {
@@ -176,7 +176,7 @@ article {
   overflow-x: hidden;
 }
 blockquote {
-  color: #808080;
+  color: #000000;
   font-style: italic;
   font-size: 0.95em;
   margin: 20px 0 20px;
