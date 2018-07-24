@@ -7,7 +7,7 @@ author:     machao
 header-img: 
 catalog: false
 tags:
-- 操作系统
+- python
 ---
 
 
