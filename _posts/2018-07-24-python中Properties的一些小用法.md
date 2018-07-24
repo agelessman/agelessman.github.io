@@ -1,4 +1,15 @@
-# python中Properties的一些小用法
+---
+layout:     post
+title:      python中Properties的一些小用法
+subtitle:   
+date:       2018-07-24
+author:     machao
+header-img: 
+catalog: true
+tags:
+- 操作系统
+---
+
 
 property最大的用处就是可以为一个属性制定getter，setter，delete和doc，他的函数原型为：
 

@@ -1,4 +1,14 @@
-# python中super()的一些用法
+---
+layout:     post
+title:      python中super()的一些用法
+subtitle:   
+date:       2018-07-24
+author:     machao
+header-img: 
+catalog: true
+tags:
+- 操作系统
+---
 
 在看python高级编程这本书的时候，在讲到super的时候，产生了一些疑惑，super在python中的用法跟其他的语言有一些不一样的地方，在网上找了一些资料，发现基本上很少有文章能把我的疑惑讲明白，其中[这篇文章](https://rhettinger.wordpress.com/2011/05/26/super-considered-super/)最有价值的地方是它讲解了我们平时对super的正确使用方法。
 

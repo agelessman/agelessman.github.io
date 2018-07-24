@@ -1,4 +1,16 @@
-# python中MetaClass的一些用法
+---
+layout:     post
+title:      python中MetaClass的一些用法
+subtitle:   
+date:       2018-07-24
+author:     machao
+header-img: 
+catalog: true
+tags:
+- 操作系统
+---
+
+
 
 元类在很多编程语言中都有这样的概念，我们都知道，类可以创建对象，类本身也是对象，既然是对象，那么它肯定也是被创造出来的，元类就专门用来创造类对象，于是，这就给我们提供了一种操纵或者监听类的能力。
 
