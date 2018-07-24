@@ -5,7 +5,7 @@ subtitle:
 date:       2018-07-24
 author:     machao
 header-img: 
-catalog: true
+catalog: false
 tags:
 - 操作系统
 ---
